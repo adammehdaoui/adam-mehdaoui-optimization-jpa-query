@@ -1,8 +1,6 @@
 package com.exo1.exo1.controller;
 
-import com.exo1.exo1.dto.TaskDto;
 import com.exo1.exo1.dto.UserDto;
-import com.exo1.exo1.service.TaskService;
 import com.exo1.exo1.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
