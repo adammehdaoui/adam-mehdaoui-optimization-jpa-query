@@ -1,6 +1,6 @@
 # JPA Optimization Exercise
 
-## Pour créer une vue matérialisé
+## Pour créer une vue matérialisée
 
 Étape 1
 
