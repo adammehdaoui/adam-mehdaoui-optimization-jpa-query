@@ -1,4 +1,4 @@
-# JPA Optimization Exercise
+# Optimisation JPA Builder
 
 ## Pour créer une vue matérialisée
 
